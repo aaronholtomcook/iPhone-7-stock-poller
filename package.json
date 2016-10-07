@@ -2,6 +2,7 @@
   "name": "iPhone-7-stock-poller",
   "version": "0.0.1",
   "dependencies": {
+    "beepbeep": "^1.2.0",
     "colors": "^1.1.2",
     "lodash": "^4.15.0",
     "request": "^2.74.0"
